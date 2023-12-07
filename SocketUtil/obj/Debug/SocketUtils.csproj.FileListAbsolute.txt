@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\SocketUtils\bin\Debug\SocketUtils.dll
+C:\Users\Daniel\source\repos\SocketUtils\bin\Debug\SocketUtils.pdb
+C:\Users\Daniel\source\repos\SocketUtils\obj\Debug\SocketUtils.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\SocketUtils\obj\Debug\SocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\SocketUtils\obj\Debug\SocketUtils.dll
+C:\Users\Daniel\source\repos\SocketUtils\obj\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\SocketUtils\bin\Debug\SocketUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\SocketUtils\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtils.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtils.pdb

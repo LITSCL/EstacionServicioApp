@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\ValidacionUtils\bin\Debug\ValidacionUtils.dll
+C:\Users\Daniel\source\repos\ValidacionUtils\bin\Debug\ValidacionUtils.pdb
+C:\Users\Daniel\source\repos\ValidacionUtils\obj\Debug\ValidacionUtils.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ValidacionUtils\obj\Debug\ValidacionUtils.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ValidacionUtils\obj\Debug\ValidacionUtils.dll
+C:\Users\Daniel\source\repos\ValidacionUtils\obj\Debug\ValidacionUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\ValidacionUtils\bin\Debug\ValidacionUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\ValidacionUtils\bin\Debug\ValidacionUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtils.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtils.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtils.pdb

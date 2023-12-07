@@ -1,0 +1,6 @@
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\SocketUtils\bin\Debug\SocketUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\SocketUtils\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtil.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtil.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\SocketUtils\obj\Debug\SocketUtils.pdb

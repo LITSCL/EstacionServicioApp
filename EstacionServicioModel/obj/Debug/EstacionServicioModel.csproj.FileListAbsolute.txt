@@ -1,0 +1,9 @@
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\bin\Debug\EstacionServicioAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\bin\Debug\EstacionServicioAppModel.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\obj\Debug\EstacionServicioModel.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\obj\Debug\EstacionServicioModel.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\obj\Debug\EstacionServicioModel.csproj.CopyComplete
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\obj\Debug\EstacionServicioAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioModel\obj\Debug\EstacionServicioAppModel.pdb

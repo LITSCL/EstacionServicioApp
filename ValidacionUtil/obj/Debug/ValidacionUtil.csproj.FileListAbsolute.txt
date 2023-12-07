@@ -1,0 +1,6 @@
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\ValidacionUtils\bin\Debug\ValidacionUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\ValidacionUtils\bin\Debug\ValidacionUtils.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtil.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtil.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\ValidacionUtils\obj\Debug\ValidacionUtils.pdb

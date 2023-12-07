@@ -1,0 +1,49 @@
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\EstacionServicioApp.exe.config
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\EstacionServicioApp.exe
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\EstacionServicioApp.pdb
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\EstacionServicioAppModel.dll
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\SocketUtils.dll
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\EstacionServicioAppModel.pdb
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\SocketUtils.pdb
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\EstacionServicioApp\obj\Debug\EstacionServicioApp.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.CopyComplete
+C:\Users\Daniel\source\repos\EstacionServicioApp\obj\Debug\EstacionServicioApp.exe
+C:\Users\Daniel\source\repos\EstacionServicioApp\obj\Debug\EstacionServicioApp.pdb
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\ValidacionUtils.dll
+C:\Users\Daniel\source\repos\EstacionServicioApp\bin\Debug\ValidacionUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioApp.exe.config
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioApp.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioAppModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\SocketUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\ValidacionUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioAppModel.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\ValidacionUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.CopyComplete
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioApp.exe.config
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioApp.exe
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioApp.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\SocketUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\ValidacionUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\EstacionServicioAppModel.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\ValidacionUtils.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.csproj.CopyComplete
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.exe
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\EstacionServicioApp\EstacionServicioApp\obj\Debug\EstacionServicioApp.pdb
